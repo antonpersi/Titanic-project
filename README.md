@@ -5,3 +5,7 @@ The idea of the analysis is to represent correlation between chances to survive 
 
 # Source
 In creating this project I used basic python libraries and algorithms implemented with the help of Jupyter Notebook software.
+
+# Dataset
+
+The actual datset was taken from Kaggle and it can be also found in files. 
