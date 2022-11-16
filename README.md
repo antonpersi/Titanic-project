@@ -1,6 +1,6 @@
 # Titanic-project
 
-This project was created by [Anton Persianov](https://github.com/antonpersi) as the final output of the Computational Social Science course held at Ca' Foscari Venice University by [Professor Massimo Warglien](www.unive.it/persone/warglien).
+This project was created by [Anton Persianov](https://github.com/antonpersi) as the final output of the Computational Social Science course held at Ca' Foscari Venice University by [Professor Massimo Warglien](https://www.unive.it/data/persone/5592652).
 
 The idea of the analysis is to explore significant social phenomena and represent correlation between chances to survive on Titanic ship and another properties such as sex, age of passangers and etc. All the rults are presented in graphical and numerical views.
 
